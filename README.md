@@ -2,7 +2,7 @@
 
 FUiLiveSDKDemo 是集成了 Faceunity 面部跟踪和虚拟道具功能 和 [ILiveSDK](https://github.com/zhaoyang21cn/iLiveSDK_iOS_Suixinbo) 直播功能的 Demo。
 
-本文是 FaceUnity SDK 快速对接融云 SealTalk 的导读说明，关于 `FaceUnity SDK` 的详细说明，请参看 [FULiveDemo](https://github.com/Faceunity/FULiveDemo/tree/dev)
+本文是 FaceUnity SDK 快速对接腾讯推流的导读说明，关于 `FaceUnity SDK` 的详细说明，请参看 [FULiveDemo](https://github.com/Faceunity/FULiveDemo/tree/dev)
 
 注：由于github有上传文件大小限制，请切记，下载工程之后，需要单独下载SDK。详见[文档](FUSuixinbo/README.md)
 
